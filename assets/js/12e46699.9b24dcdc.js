@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclimateqa=self.webpackChunkclimateqa||[]).push([[799],{9405:a=>{a.exports=JSON.parse('{"label":"ClimateQ&A","permalink":"/climateqa_docs/blog/tags/climate-q-a","allTagsPath":"/climateqa_docs/blog/tags","count":1,"unlisted":false}')}}]);
